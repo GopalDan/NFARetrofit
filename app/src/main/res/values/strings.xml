@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NFARetrofit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_network">Oops! No network</string>
+    <string name="nfa">NFA</string>
+    <string name="sports">Sports</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="Tech">Tech</string>
+    <string name="politics">Politics</string>
+    <string name="Health">Health</string>
+    <string name="no_data_available">No news to display and try again later by restarting the application</string>
+</resources>
